@@ -1,4 +1,4 @@
-from Usuarios.Usuarios import cadastrar_usuario, acessar_sistema, alterar_senha, listar_adm, sair
+from Usuarios.Usuarios import cadastrar_usuario, acessar_sistema, alterar_senha, sair
 from Servidores.Servidores import cadastrar_servidor, remover_servidor, definir_adm
 
 def menu():
